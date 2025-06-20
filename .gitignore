@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Visual Studio Cache
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Crash Reports
+sysinfo.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
